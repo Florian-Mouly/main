@@ -21,7 +21,7 @@ public class TPGit {
         System.out.println("Modif Axel");
         System.out.println("tpgit.TPGit.main()");
         System.out.println("Mod Quentin merge");
-        // Teste merge
+        // Test merge
         
 
         
