@@ -20,7 +20,9 @@ public class TPGit {
         // test commit git 
         System.out.println("Modif Axel");
         System.out.println("tpgit.TPGit.main()");
-        System.out.println("Modif Quentin");
+        System.out.println("Mod Quentin merge");
+        // Teste merge
+        
 
         
     }
